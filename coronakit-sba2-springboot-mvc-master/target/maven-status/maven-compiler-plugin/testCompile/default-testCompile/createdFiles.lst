@@ -1,0 +1,7 @@
+com\eval\coronakit\test\Functional\UserControllerTest.class
+com\eval\coronakit\test\Functional\HomeControllerTest.class
+com\eval\coronakit\test\Exception\SecurityExceptionTest.class
+com\eval\coronakit\test\Functional\AdminControllerTest.class
+com\eval\coronakit\test\utils\TestUtils.class
+com\eval\coronakit\test\utils\MasterData.class
+com\eval\coronakit\test\Boundary\BoundaryTest.class

@@ -1,0 +1,7 @@
+
+testUserFinalizeOrder=false
+testUserHome=true
+testUserDeleteItemFormKit=false
+testUserListAllProduct=true
+testUserShowKit=true
+testUserCheckout=false

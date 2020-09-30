@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.eval.coronakit.test.Functional.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.574 s <<< FAILURE! - in com.eval.coronakit.test.Functional.UserControllerTest
+testUserAddProductToKit  Time elapsed: 0.082 s  <<< ERROR!
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
+	at com.eval.coronakit.test.Functional.UserControllerTest.testUserAddProductToKit(UserControllerTest.java:99)
+Caused by: java.lang.NullPointerException
+	at com.eval.coronakit.test.Functional.UserControllerTest.testUserAddProductToKit(UserControllerTest.java:99)
+
